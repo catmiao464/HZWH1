@@ -1,0 +1,137 @@
+{
+  "riddles": [
+    {
+      "question": "四个'口'围小狗",
+      "answer": "器",
+      "hint": "注意'犬'字的位置",
+      "difficulty": 3
+    },
+    {
+      "question": "山上还有山",
+      "answer": "出",
+      "hint": "两个'山'字叠加",
+      "difficulty": 2
+    },
+    {
+      "question": "一加一不是二",
+      "answer": "王",
+      "hint": "注意字形",
+      "difficulty": 3
+    },
+    {
+      "question": "九十九",
+      "answer": "白",
+      "hint": "一百减一",
+      "difficulty": 2
+    },
+    {
+      "question": "夫人回娘家",
+      "answer": "圭",
+      "hint": "注意'女'字的位置",
+      "difficulty": 3
+    }
+  ],
+  "xiehouyu": [
+    {
+      "first_part": "张飞审西瓜",
+      "second_part": "粗中有细",
+      "explanation": "猛将也有细心时"
+    },
+    {
+      "first_part": "孔夫子搬家",
+      "second_part": "净是书（输）",
+      "explanation": "谐音双关"
+    },
+    {
+      "first_part": "外甥打灯笼",
+      "second_part": "照舅（旧）",
+      "explanation": "谐音双关"
+    },
+    {
+      "first_part": "和尚打伞",
+      "second_part": "无法无天",
+      "explanation": "双关语"
+    },
+    {
+      "first_part": "泥菩萨过河",
+      "second_part": "自身难保",
+      "explanation": "比喻自身难保"
+    },
+    {
+      "first_part": "狗拿耗子",
+      "second_part": "多管闲事",
+      "explanation": "比喻多管闲事"
+    },
+    {
+      "first_part": "猪八戒照镜子",
+      "second_part": "里外不是人",
+      "explanation": "比喻两面不讨好"
+    },
+    {
+      "first_part": "老虎屁股",
+      "second_part": "摸不得",
+      "explanation": "比喻不能招惹"
+    },
+    {
+      "first_part": "老鼠过街",
+      "second_part": "人人喊打",
+      "explanation": "比喻人人痛恨"
+    },
+    {
+      "first_part": "竹篮打水",
+      "second_part": "一场空",
+      "explanation": "比喻白费力气"
+    },
+    {
+      "first_part": "瞎子点灯",
+      "second_part": "白费蜡",
+      "explanation": "比喻白费力气"
+    },
+    {
+      "first_part": "黄鼠狼给鸡拜年",
+      "second_part": "没安好心",
+      "explanation": "比喻不怀好意"
+    },
+    {
+      "first_part": "哑巴吃黄连",
+      "second_part": "有苦说不出",
+      "explanation": "比喻有苦难言"
+    },
+    {
+      "first_part": "骑驴看唱本",
+      "second_part": "走着瞧",
+      "explanation": "比喻看事情发展"
+    },
+    {
+      "first_part": "铁公鸡",
+      "second_part": "一毛不拔",
+      "explanation": "比喻非常吝啬"
+    },
+    {
+      "first_part": "鸡蛋碰石头",
+      "second_part": "不自量力",
+      "explanation": "比喻自不量力"
+    },
+    {
+      "first_part": "猫哭老鼠",
+      "second_part": "假慈悲",
+      "explanation": "比喻假慈悲"
+    },
+    {
+      "first_part": "猴子捞月亮",
+      "second_part": "白忙一场",
+      "explanation": "比喻白费力气"
+    },
+    {
+      "first_part": "画蛇添足",
+      "second_part": "多此一举",
+      "explanation": "比喻多余的行为"
+    },
+    {
+      "first_part": "对牛弹琴",
+      "second_part": "白费劲",
+      "explanation": "比喻对不懂的人说教"
+    }
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "riddles": [
+    {
+      "question": "四个'口'围小狗",
+      "answer": "器",
+      "hint": "注意'犬'字的位置",
+      "difficulty": 3
+    }
+  ],
+  "xiehouyu": [
+    {
+      "first_part": "张飞审西瓜",
+      "second_part": "粗中有细",
+      "explanation": "猛将也有细心时"
+    }
+  ],
+  "version": "2.2.1"
+}
